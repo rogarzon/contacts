@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="et_name_hint">Full name</string>
+    <string name="et_phone_hint">Phone</string>
+    <string name="et_email_hint">Email</string>
+    <string name="et_description_hint">Contact description</string>
+    <string name="bt_next_text">Next</string>
+
+    <string name="detail_title_text">Data confirmation</string>
+    <string name="bt_edit_text">Edit data</string>
+    <string name="et_birthday_label">Birthday:</string>
+    <string name="et_phone_label">Phone:</string>
+    <string name="et_email_label">Email:</string>
+    <string name="et_desc_label">Description:</string>
+</resources>
